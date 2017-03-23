@@ -1,0 +1,21 @@
+{
+  "name": "perceptrons_synaptics",
+  "version": "1.0.0",
+  "description": "Perceptron implementation on Node.js using the Synaptic library",
+  "main": "AND.js",
+  "dependencies": {
+    "synaptic": "^1.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "neural networks",
+    "artificial intelligence",
+    "AND",
+    "OR",
+  ],
+  "author": "Jordan Kobellarz",
+  "license": "ISC"
+}
